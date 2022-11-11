@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```bash
+```
 🌱 Chenzi Xu  
 ├─🌟 Phonetics  
 │ ├─📌 Forced Alignment  
