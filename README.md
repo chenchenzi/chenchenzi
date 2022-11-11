@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```bash
 🌱 Chenzi Xu  
 ├─🌟 Phonetics  
 │ ├─📌 Forced Alignment  
@@ -24,12 +25,4 @@ Here are some ideas to get you started:
 │   └─ [TextGrids to Tables](https://github.com/chenchenzi/textgrid2table)       - Converting Textgrid files to more readable tabular format
 └─💡 Other
   └─ [About me](https://chenzixu.rbind.io/)   - My personal website
-
-🌱 Chenzi Xu  /
-├── 🌟 Phonetics  /
-│   ├── 📌 Forced Alignment /
-│   │   └── [P2FA Mandarin Python 3](https://github.com/chenchenzi/P2FA_Mandarin_py3) Penn Phonetics Lab Forced Aligner Toolkit with Python 3 compatibility  
-│   └── 📖 Text  /
-│       └── [TextGrids to Tables](https://github.com/chenchenzi/textgrid2table)       Converting Textgrid files to more readable tabular format
-└── 💡 Other/
-    └── [About me](https://chenzixu.rbind.io/)   - My personal website
+```
