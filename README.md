@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 🌱 <b>Chenzi Xu</b>  
 ├─🌟 <b>Phonetics</b>  
 │ ├─⚙️ <b>Forced Alignment</b>  
-│ │ └─ <a href="https://github.com/chenchenzi/P2FA_Mandarin_py3">P2FA_Mandarin_py3</a>    - Penn Phonetics Lab Forced Aligner Toolkit with Python 3 compatibility  
+│ │ ├─ <a href="https://github.com/chenchenzi/P2FA_Mandarin_py3">P2FA_Mandarin_py3</a>    - Penn Phonetics Lab Forced Aligner Toolkit with Python 3 compatibility
+│ │ └─ <a href="https://github.com/chenchenzi/HKCantonese_models">HKCantonese_models</a>  - Acoustic Models of Hong Kong Cantonese trained using open datasets
 │ └─📖 <b>Text</b>  
 │   └─ <a href="https://github.com/chenchenzi/textgrid2table">textgrid2table</a>       - Converting Textgrid files to more readable tabular format  
 └─💡 <b>Other</b>  
