@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <pre>
 
 🌱 <b>Chenzi Xu</b>  
-├─🌟 <b>Phonetics</b>  
+├─🌟 <b>Phonetics</b>
+│ ├─📑 <a href="https://chenzixu.rbind.io/](https://chenzixu.shinyapps.io/shinytone/)">Citation tone research hub</a>    - Web app for citation tone research
 │ ├─⚙️ <b>Forced Alignment</b>  
 │ │ ├─ <a href="https://github.com/chenchenzi/P2FA_Mandarin_py3">P2FA_Mandarin_py3</a>    - Penn Phonetics Lab Forced Aligner Toolkit with Python 3 compatibility
 │ │ └─ <a href="https://github.com/chenchenzi/HKCantonese_models">HKCantonese_models</a>   - Acoustic Models of Hong Kong Cantonese trained using open datasets
