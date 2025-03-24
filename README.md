@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 │ └─📖 <b>Text</b>  
 │   └─ <a href="https://github.com/chenchenzi/textgrid2table">textgrid2table</a>       - Converting Textgrid files to more readable tabular format  
 └─💡 <b>Other</b>  
+  ├─ <a href="https://chenchenzi.github.io/manytones/">ManyTones</a>   - ManyTones project website
   └─ <a href="https://chenzixu.rbind.io/">About me</a>   - My personal website
 
 </pre>
